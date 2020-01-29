@@ -1,4 +1,3 @@
-package homework1;
 
 import java.awt.ItemSelectable;
 import java.util.Arrays;
